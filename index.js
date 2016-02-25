@@ -47,8 +47,6 @@ document.addEventListener(
             500
         );
 
-        admob.createBannerView({publisherId: "ca-app-pub-8729215676645909/3275593075"});
-
     },
     false
 );

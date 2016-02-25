@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="biz.anzol.noisy" version="1.0.0">
-  <name>noisy</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="biz.anzol.noisyplus" version="1.0.0">
+  <name>noisyplus</name>
   <description>White, Pink and Brownian (aka Brown or Red) Noise Generator</description>
   <author email="thiagocondurufigueiredo@gmail.com">Thiago F</author>
   <content src="index.html"/>
@@ -16,7 +16,6 @@
   <preference name="android-minSdkVersion" value="21"/>
   <preference name="android-installLocation" value="auto"/>
   <plugin name="nl.x-services.plugins.headsetdetection" source="pgb" spec="1.0" />
-  <plugin name="cordova-admob" source="npm"/>
   <icon src="icon.png"/>
   <platform name="android" />
 </widget>
